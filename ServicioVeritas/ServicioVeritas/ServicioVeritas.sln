@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioVeritas", "ServicioVeritas\ServicioVeritas.csproj", "{3007365A-614A-4391-816D-6621A75504C6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ServicioVeritasInspeciones", "..\..\..\..\Music\ServicioVeritasInspeciones\ServicioVeritasInspeciones.vdproj", "{F1EC8149-8C31-46F4-98A8-1DED9DFD9E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3007365A-614A-4391-816D-6621A75504C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3007365A-614A-4391-816D-6621A75504C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3007365A-614A-4391-816D-6621A75504C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3007365A-614A-4391-816D-6621A75504C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EC8149-8C31-46F4-98A8-1DED9DFD9E1F}.Debug|Any CPU.ActiveCfg = Debug
+		{F1EC8149-8C31-46F4-98A8-1DED9DFD9E1F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

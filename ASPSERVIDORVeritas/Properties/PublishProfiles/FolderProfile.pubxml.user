@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>12/20/2017 16:56:36</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>12/20/2017 16:56:36</publishTime>
+    </File>
+    <File Include="bin/ASPSERVIDORVeritas.dll">
+      <publishTime>05/30/2018 12:11:26</publishTime>
+    </File>
+    <File Include="bin/ASPSERVIDORVeritas.pdb">
+      <publishTime>05/30/2018 12:11:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 18:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 13:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 13:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 11:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 13:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 13:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 10:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/20/2017 16:56:30</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/20/2017 16:56:36</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>12/20/2017 16:56:36</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>12/20/2017 16:56:36</publishTime>
+    </File>
+    <File Include="ServidorMetodhs.aspx">
+      <publishTime>12/20/2017 17:04:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/30/2018 11:46:36</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/css/bootstrap-theme.css">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/css/bootstrap-theme.min.css">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/css/bootstrap.css">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/css/bootstrap.min.css">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/css/font-awesome.css">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/fontawesome-webfont.eot">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/fontawesome-webfont.svg">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/fontawesome-webfont.ttf">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/fontawesome-webfont.woff">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/FontAwesome.otf">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/js/bootstrap.js">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/js/bootstrap.min.js">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/plugins/iCheck/css/blue%402x.png">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/plugins/iCheck/css/blue.css">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/plugins/iCheck/css/blue.png">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/plugins/iCheck/js/custom.js">
+      <publishTime>12/20/2017 16:18:52</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/plugins/iCheck/js/custom.min.js">
+      <publishTime>12/20/2017 16:18:54</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/plugins/iCheck/js/icheck.js">
+      <publishTime>12/20/2017 16:18:54</publishTime>
+    </File>
+    <File Include="web/assets/bootstrap3/plugins/iCheck/js/jquery.js">
+      <publishTime>12/20/2017 16:18:54</publishTime>
+    </File>
+    <File Include="web/assets/css/bootstrap.min.css">
+      <publishTime>12/28/2017 04:36:48</publishTime>
+    </File>
+    <File Include="web/assets/css/demo.css">
+      <publishTime>12/28/2017 04:36:50</publishTime>
+    </File>
+    <File Include="web/assets/css/dropzone.css">
+      <publishTime>04/05/2018 23:58:10</publishTime>
+    </File>
+    <File Include="web/assets/css/index.css">
+      <publishTime>01/22/2018 04:36:54</publishTime>
+    </File>
+    <File Include="web/assets/css/login-register.css">
+      <publishTime>12/20/2017 18:05:26</publishTime>
+    </File>
+    <File Include="web/assets/css/material-dashboard.css">
+      <publishTime>12/28/2017 04:36:50</publishTime>
+    </File>
+    <File Include="web/assets/css/media/images/Background.jpg">
+      <publishTime>12/20/2017 17:23:34</publishTime>
+    </File>
+    <File Include="web/assets/css/media/images/loader.gif">
+      <publishTime>12/26/2017 05:09:14</publishTime>
+    </File>
+    <File Include="web/assets/js/angular-resource.min.js">
+      <publishTime>12/21/2017 23:25:44</publishTime>
+    </File>
+    <File Include="web/assets/js/angular.min.js">
+      <publishTime>12/21/2017 23:24:32</publishTime>
+    </File>
+    <File Include="web/assets/js/arrive.min.js">
+      <publishTime>12/28/2017 04:33:42</publishTime>
+    </File>
+    <File Include="web/assets/js/bootstrap-notify.js">
+      <publishTime>12/28/2017 04:33:42</publishTime>
+    </File>
+    <File Include="web/assets/js/bootstrap.min.js">
+      <publishTime>12/28/2017 04:33:42</publishTime>
+    </File>
+    <File Include="web/assets/js/chartist.min.js">
+      <publishTime>12/28/2017 04:33:42</publishTime>
+    </File>
+    <File Include="web/assets/js/dropzone.js">
+      <publishTime>04/01/2018 12:25:16</publishTime>
+    </File>
+    <File Include="web/assets/js/index.js">
+      <publishTime>05/30/2018 01:37:52</publishTime>
+    </File>
+    <File Include="web/assets/js/jquery-3.2.1.min.js">
+      <publishTime>12/29/2017 21:36:54</publishTime>
+    </File>
+    <File Include="web/assets/js/jquery-3.2.1.min.map">
+      <publishTime>12/29/2017 21:36:54</publishTime>
+    </File>
+    <File Include="web/assets/js/login-register.js">
+      <publishTime>12/29/2017 21:29:36</publishTime>
+    </File>
+    <File Include="web/assets/js/material-dashboard.js">
+      <publishTime>12/28/2017 23:07:46</publishTime>
+    </File>
+    <File Include="web/assets/js/material.min.js">
+      <publishTime>12/28/2017 23:05:00</publishTime>
+    </File>
+    <File Include="web/assets/js/perfect-scrollbar.jquery.min.js">
+      <publishTime>12/28/2017 23:06:14</publishTime>
+    </File>
+    <File Include="web/dashboard.aspx">
+      <publishTime>05/30/2018 02:15:20</publishTime>
+    </File>
+    <File Include="web/dashboard.html">
+      <publishTime>04/08/2018 23:03:42</publishTime>
+    </File>
+    <File Include="web/login.html">
+      <publishTime>12/29/2017 21:38:38</publishTime>
+    </File>
+    <File Include="web/webServices.aspx">
+      <publishTime>03/15/2018 23:48:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

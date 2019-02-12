@@ -1,0 +1,202 @@
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ApplicationInsights.config
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\csc.exe
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Collections.Immutable.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\vbc.exe
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll.config
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.pdb
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.xml
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.xml
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.xml
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.dll
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.pdb
+c:\users\angel\documents\visual studio 2015\Projects\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csprojResolveAssemblyReference.cache
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ApplicationInsights.config
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\csc.exe
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\vbc.exe
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll.config
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.pdb
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.xml
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.xml
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.xml
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.xml
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csprojResolveAssemblyReference.cache
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.dll
+D:\Proyectos\Outsourcing\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.pdb
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ApplicationInsights.config
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\csc.exe
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\vbc.exe
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll.config
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.pdb
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.xml
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.dll
+C:\Users\ANGEL\Downloads\ASPSERVIDORVeritas 20-03-2018\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.pdb
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ApplicationInsights.config
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\csc.exe
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Collections.Immutable.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\vbc.exe
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe.config
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll.config
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.pdb
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.xml
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.xml
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.xml
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csprojResolveAssemblyReference.cache
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csproj.CoreCompileInputs.cache
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.dll
+D:\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.pdb
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ApplicationInsights.config
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\csc.exe
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\vbc.exe
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll.config
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.pdb
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.xml
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.dll
+C:\Users\ANGEL\Dropbox\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.pdb
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ApplicationInsights.config
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\csc.exe
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\vbc.exe
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll.config
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\ASPSERVIDORVeritas.pdb
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.Web.xml
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.dll
+C:\Users\ANGEL\Documents\VERITASNOW1102119\ASPSERVIDORVeritas\ASPSERVIDORVeritas\ASPSERVIDORVeritas\obj\Debug\ASPSERVIDORVeritas.pdb

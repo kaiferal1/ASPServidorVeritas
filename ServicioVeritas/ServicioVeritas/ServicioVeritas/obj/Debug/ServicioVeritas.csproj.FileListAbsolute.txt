@@ -1,0 +1,65 @@
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.pdb
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.exe
+c:\users\angel\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.pdb
+C:\Users\ANGEL\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\bin\Debug\SYSCONFIG.ini
+C:\Users\ANGEL\documents\visual studio 2015\Projects\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csprojResolveAssemblyReference.cache
+D:\ServicioVeritas\ServicioVeritas\bin\Debug\SYSCONFIG.ini
+D:\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe.config
+D:\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe
+D:\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.pdb
+D:\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csprojResolveAssemblyReference.cache
+D:\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Form1.resources
+D:\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Properties.Resources.resources
+D:\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.GenerateResource.Cache
+D:\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.CoreCompileInputs.cache
+D:\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.exe
+D:\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.pdb
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\SYSCONFIG.ini
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe.config
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.pdb
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Form1.resources
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Properties.Resources.resources
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.GenerateResource.Cache
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.exe
+C:\Users\ANGEL\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.pdb
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csprojResolveAssemblyReference.cache
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Form1.resources
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Properties.Resources.resources
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.GenerateResource.Cache
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.CoreCompileInputs.cache
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.exe
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.pdb
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\SYSCONFIG.ini
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe.config
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe
+D:\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.pdb
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\SYSCONFIG.ini
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe.config
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.pdb
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csprojResolveAssemblyReference.cache
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Form1.resources
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Properties.Resources.resources
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.GenerateResource.cache
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.CoreCompileInputs.cache
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.exe
+C:\Users\Alguien\Dropbox\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.pdb
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\SYSCONFIG.ini
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe.config
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.exe
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\bin\Debug\ServicioVeritas.pdb
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Form1.resources
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.Properties.Resources.resources
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.GenerateResource.Cache
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.exe
+C:\Users\ANGEL\Documents\Visual Studio 2017\Projects\ServicioVeritas\ServicioVeritas\ServicioVeritas\obj\Debug\ServicioVeritas.pdb
